@@ -16,12 +16,11 @@ X-LDA is built in Python 3.8.5 and Pytorch 1.8.0. Please use the following comma
 
 `pip install -r requirements.txt`
 
-
-### 2.Construction of the weighted adjacency matrix and graph patch features.
+### Data Process
+#### Construction of the weighted adjacency matrix and graph patch features.
 <img width="1791" alt="f2" src="https://github.com/YangkunCao/X-LDA/assets/127037183/f1ebbe5e-8525-4548-8fd2-a6f27a3de4d5">
 
 
-### 3.Explainable Graphs.
-<img width="1832" alt="f3" src="https://github.com/YangkunCao/X-LDA/assets/127037183/435efd1a-2bbd-468c-9734-50b8abbcf422">
+### Attribution Scores.
 
 
