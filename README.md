@@ -11,10 +11,10 @@ The code for paper "X-LDA: an Interpretable and Heterogeneous Graph Learning Fra
 - Experiment results and analysis indicate that X-LDA outperforms nine state-of-the-art methods of three categories, and demonstrate the capability of discovering potential associations. In addition, we explore how the trained model predicts a known and an unknown LDA in the dataset by their post-hoc explanations.
 
 
-### 1.Overview of X-LDA.
+### Dependencies
+X-LDA is built in Python 3.8.5 and Pytorch 1.8.0. Please use the following command to install the requirements:
 
-We construct the heterogeneous graph by utilizing the correlation among lncRNAs, miRNAs, and diseases and fusing domain information of lncRNAs and diseases. Nine types of graph patches in the heterogeneous graph are defined based on biological premises. Our method predicts the lncRNA-dsiease association based on graph patch convolution and context convolution. The explainable graph is given by integrated gradients.
-The repository is organized as follows:
+pip install -r requirements.txt
 
 
 ### 2.Construction of the weighted adjacency matrix and graph patch features.
