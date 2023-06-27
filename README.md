@@ -18,12 +18,18 @@ Please use the following command to install the requirements:
 
 `pip install -r requirements.txt`
 
-### Data Process
-#### Construction of the weighted adjacency matrix and graph patch features.
+### Overview
+#### Data Process
 <img width="1791" alt="f2" src="https://github.com/YangkunCao/X-LDA/assets/127037183/f1ebbe5e-8525-4548-8fd2-a6f27a3de4d5">
+
 
 #### Training and Evaluation
 
-#### Attribution Scores.
 
+#### Contacts and Citation.
+Contacts
+If you have any questions, please email Yangkun Cao (caoyk20@mails.jlu.edu.cn)
+
+Citation ()
+If you found the provided code with our paper useful in your work, we kindly request that you cite our work.
 
