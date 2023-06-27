@@ -14,7 +14,7 @@ The code for paper "X-LDA: an Interpretable and Heterogeneous Graph Learning Fra
 ### Dependencies
 X-LDA is built in Python 3.8.5 and Pytorch 1.8.0. Please use the following command to install the requirements:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ### 2.Construction of the weighted adjacency matrix and graph patch features.
