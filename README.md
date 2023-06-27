@@ -19,14 +19,16 @@ Please use the following command to install the requirements:
 `pip install -r requirements.txt`
 
 ### Overview
-#### Data Process
 <img width="1791" alt="f2" src="https://github.com/YangkunCao/X-LDA/assets/127037183/f1ebbe5e-8525-4548-8fd2-a6f27a3de4d5">
 
+- `data/` contains the processed dataset;
+- `feature/` contains the feature construction function;
+- `models/` contains X-LDA model;
+- `train.py` contains training and testing code;
+- `main.py` contains X-LDA model
 
-#### Training and Evaluation
 
-
-#### Contacts and Citation.
+### Contacts and Citation.
 Contacts
 If you have any questions, please email Yangkun Cao (caoyk20@mails.jlu.edu.cn)
 
