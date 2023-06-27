@@ -1,8 +1,11 @@
-# X-LDA
-## X-LDA: an Interpretable and Heterogeneous Graph Learning Framework for LncRNA-Disease Association Prediction
+# X-LDA: an Interpretable and Heterogeneous Graph Learning Framework for LncRNA-Disease Association Prediction
+
+
+<img width="1310" alt="f1" src="https://github.com/YangkunCao/X-LDA/assets/127037183/13f2be1c-497f-41ea-8c23-75fba662f6e9">
 
 ### 1.Overview of X-LDA.
-<img width="1310" alt="f1" src="https://github.com/YangkunCao/X-LDA/assets/127037183/13f2be1c-497f-41ea-8c23-75fba662f6e9">
+The code for paper "X-LDA: an Interpretable and Heterogeneous Graph Learning Framework for LncRNA-Disease Association Prediction". The repository is organized as follows:
+
 
 ### 2.Construction of the weighted adjacency matrix and graph patch features.
 <img width="1791" alt="f2" src="https://github.com/YangkunCao/X-LDA/assets/127037183/f1ebbe5e-8525-4548-8fd2-a6f27a3de4d5">
