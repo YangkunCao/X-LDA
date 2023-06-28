@@ -23,6 +23,7 @@ Please use the following command to install the requirements:
 - `feature/` contains the construction functions of graph patches;
 - `models/` contains X-LDA model;
 - `train.py` contains training and testing code;
+- `X-instance.py` contains interpretable code;
 - `main.py` runs main.
 
 
