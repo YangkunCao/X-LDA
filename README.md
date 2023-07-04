@@ -19,7 +19,7 @@ Please use the following command to install the requirements:
 `pip install -r requirements.txt`
 
 ### Overview
-- `dataset/` contains the processed data and cv data;
+- `dataset/` contains the processed data and code;
 - `models/` contains X-LDA model;
 - `train/` contains training code;
 - `main.py` runs main.
