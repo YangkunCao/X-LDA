@@ -12,7 +12,7 @@ The code for paper "X-LDA: an Interpretable and Heterogeneous Graph Learning Fra
 
 
 ### Dependencies
-X-LDA is built in Python 3.8.5 and Pytorch 1.8.0.+cu111
+X-LDA is built in Python 3.8 and Pytorch
 
 Please use the following command to install the requirements:
 
