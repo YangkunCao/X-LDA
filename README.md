@@ -19,11 +19,9 @@ Please use the following command to install the requirements:
 `pip install -r requirements.txt`
 
 ### Overview
-- `data/` contains the processed dataset;
-- `feature/` contains the construction functions of graph patches;
+- `dataset/` contains the processed data and cv data;
 - `models/` contains X-LDA model;
-- `train.py` contains training and testing code;
-- `X-instance.py` contains interpretable code;
+- `train/` contains training code;
 - `main.py` runs main.
 
 
