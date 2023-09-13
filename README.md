@@ -1,5 +1,5 @@
-# X-LDA: an Interpretable and Heterogeneous Graph Learning Framework for LncRNA-Disease Association Prediction
-The code for paper "X-LDA: an Interpretable and Heterogeneous Graph Learning Framework for LncRNA-Disease Association Prediction". 
+# X-LDA: An Interpretable and Knowledge-informed Heterogeneous Graph Learning Framework for LncRNA-Disease Association Prediction
+The code for paper "X-LDA: An Interpretable and Knowledge-informed Heterogeneous Graph Learning Framework for LncRNA-Disease Association Prediction". 
 
 <img width="1310" alt="f1" src="https://github.com/YangkunCao/X-LDA/assets/127037183/13f2be1c-497f-41ea-8c23-75fba662f6e9">
 
