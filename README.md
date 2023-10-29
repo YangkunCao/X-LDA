@@ -25,10 +25,7 @@ Please use the following command to install the requirements:
 - `main.py` runs main.
 
 
-### Contacts and Citation.
-Contacts
-If you have any questions, please email Yangkun Cao (caoyk20@mails.jlu.edu.cn)
-
+### Citation.
 Citation (Reserve for the Future)
 If you found the provided code with our paper useful in your work, we kindly request that you cite our work.
 
