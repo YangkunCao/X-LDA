@@ -26,6 +26,15 @@ Please use the following command to install the requirements:
 
 
 ### Citation.
-Citation (Reserve for the Future)
+
 If you found the provided code with our paper useful in your work, we kindly request that you cite our work.
 
+@article{cao2023x,
+  title={X-LDA: An interpretable and knowledge-informed heterogeneous graph learning framework for LncRNA-disease association prediction},
+  author={Cao, Yangkun and Xiao, Jun and Sheng, Nan and Qu, Yinwei and Wang, Zhihang and Sun, Chang and Mu, Xuechen and Huang, Zhenyu and Li, Xuan},
+  journal={Computers in Biology and Medicine},
+  volume={167},
+  pages={107634},
+  year={2023},
+  publisher={Elsevier}
+}
