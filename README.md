@@ -25,7 +25,7 @@ Please use the following command to install the requirements:
 - `main.py` runs main.
 
 
-### Citation.
+### Citation
 
 If you found the provided code with our paper useful in your work, we kindly request that you cite our work.
 
